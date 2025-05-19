@@ -105,7 +105,7 @@ This project is licensed under the MIT License.
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [paavan](https://github.com/paavan365)
 
 ---
 
