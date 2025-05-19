@@ -137,4 +137,4 @@ Made with ❤️ by [paavan](https://github.com/paavan365)
 
 ---
 
-> **supercli** — Automate, simplify, and supercharge your Infra & Kubernetes workflow!
+> **supercli** — Automate, simplify, and supercharge your Infra & Kubernetes workflow !
