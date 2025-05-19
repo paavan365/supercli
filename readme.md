@@ -41,6 +41,34 @@ supercli/
 
 ---
 
+## 🛠️ Prerequisites
+
+Before using **supercli**, you must have the following tools installed and available in your system's `PATH`:
+
+- [Infra CLI](https://github.com/infrahq/infra)  
+  Follow the [Infra installation guide](https://github.com/infrahq/infra#installation) to download and install the `infra` CLI.
+
+- [kubectl](https://kubernetes.io/docs/reference/kubectl/)  
+  Follow the [kubectl installation guide](https://kubernetes.io/docs/tasks/tools/) to download and install the Kubernetes CLI.
+
+### Add to PATH
+
+After downloading, move the binaries to a directory in your `PATH` (e.g., `/usr/local/bin`):
+
+```sh
+sudo mv /path/to/infra /usr/local/bin/
+sudo mv /path/to/kubectl /usr/local/bin/
+```
+
+Verify installation:
+
+```sh
+infra version
+kubectl version --client
+```
+
+---
+
 ## 🛠️ Installation
 
 1. **Clone the repository:**
